@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Singh.
-- 👀 I’m interested in cloud technology and blockchain.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in cloud technology and DevOps
+- 🌱 I’m currently learning Linux.
 - 💞️ I’m looking to collaborate on projects based on Blockchain and Solidity.
 - 📫 How to reach me? https://himanshubaigoman.carrd.co/.
 
